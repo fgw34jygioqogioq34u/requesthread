@@ -1,0 +1,6 @@
+{
+    "name": "requesthread",
+    "version": "1.0.0",
+    "description": "A plugin to request open on Dragory Modmail.",
+    "main": "./index.js"
+  }
